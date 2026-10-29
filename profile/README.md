@@ -9,7 +9,7 @@ packages as direct programs that drive the cloud providers' own CLIs.
 **Announcement:** [Rebooting getcolors.ai](https://www.getcolors.ai/blog/getcolors-reboot) ·
 **Discord:** [join](https://discord.gg/3aQzzrrdFj)
 
-## The foundation: three colours
+## The foundation: three colors
 
 | SDK | Language | |
 |---|---|---|
@@ -19,7 +19,7 @@ packages as direct programs that drive the cloud providers' own CLIs.
 
 Each implements the same workflow model: a graph of steps that take and return
 one map of options, wired statically and routed dynamically. Anyone can build a
-package on a colour.
+package on a color.
 
 ## Packages
 
