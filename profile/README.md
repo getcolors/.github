@@ -34,9 +34,8 @@ Packages can build on it in turn:
 - [alice](https://github.com/getcolors/alice) — ephemeral Transmission server on DigitalOcean
 - [dotfiles](https://github.com/getcolors/dotfiles) — Ubuntu or macOS home configuration (on Green)
 
-## Skills and workspace
+## Skills
 
 - [skills](https://github.com/getcolors/skills) — Agent Skills, including `create-context-skill`
-- [workspace](https://github.com/getcolors/workspace) — shared instructions, standards and repository inventory
 
 Earlier OpenTofu/Ansible packages and deployments are archived and read-only.
