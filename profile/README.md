@@ -31,7 +31,6 @@ Packages can build on it in turn:
 
 - [rybbit](https://github.com/getcolors/rybbit) — single-node Rybbit analytics on Hetzner
 - [walter](https://github.com/getcolors/walter) — Google Cloud or OCI development machines
-- [alice](https://github.com/getcolors/alice) — ephemeral Transmission server on DigitalOcean
 - [dotfiles](https://github.com/getcolors/dotfiles) — Ubuntu or macOS home configuration (on Green)
 
 ## Skills
